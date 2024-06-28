@@ -2,5 +2,9 @@
   {
     "package": "IPBES.R",
     "url": "https://github.com/IPBES-Data/IPBES.R"
+  },
+  {
+    "package": "IPBES.LiteratureReport",
+    "url": "https://github.com/IPBES-Data/IPBES.LiteratureReport"
   }
 ]
